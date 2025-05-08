@@ -15,7 +15,7 @@
 From creating scalable architecture solutions to building smaller utility tools, I'm a self-taught iOS developer who has experience building and designing fun, practical applications for Apple platforms.
 
 ```Swift
-var seb = IOSDeveloper
+var seb = IOSDeveloper()
 seb.age = 31
 seb.location = "West Midlands, UK"
 seb.believesIn = "Tabs over spaces"
