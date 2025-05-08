@@ -12,8 +12,7 @@
 
 ## 👋 Hi, I'm Seb
 
-From creating scalable architecture solutions to building smaller utility tools, I'm a self-taught iOS developer
-<br>who has experience building and designing fun, practical applications for Apple platforms.
+From creating scalable architecture solutions to building smaller utility tools, I'm a self-taught iOS developer who has experience building and designing fun, practical applications for Apple platforms.
 
 ```Swift
 var seb = IOSDeveloper
