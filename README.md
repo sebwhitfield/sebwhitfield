@@ -71,7 +71,7 @@ seb.hobbies = [
 A lightweight utility app for generatoring supabase type definitions in Swift, speeding up development time and ensuring type safety
 when dealing with string definitions whilst building out applications utilizing Supabase.
 
-### Toolboox  📦 📱 ✨
+### Toolbox  📦 📱 ✨
 A dynamic and reusable component library that allows for mass styling. Think SwiftUI components but with the ability to update components
 on app launch, globally. Allows for creating "styles" and reusing these across multiple components.
 
