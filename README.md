@@ -68,7 +68,7 @@ seb.hobbies = [
 ## 🔨 Currently working on
 
 ### Supa Schema  📦 💻
-A lightweight utility app for generatoring supabase type definitions in Swift, speeding up development time and ensuring type safety
+A lightweight utility app for generating supabase type definitions in Swift, speeding up development time and ensuring type safety
 when dealing with string definitions whilst building out applications utilizing Supabase.
 
 ### Toolbox  📦 📱 ✨
