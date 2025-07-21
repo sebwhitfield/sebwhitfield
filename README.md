@@ -16,7 +16,7 @@ From creating scalable architecture solutions to building smaller utility tools,
 
 ```Swift
 var seb = IOSDeveloper()
-seb.age = 31
+seb.age = 32
 seb.location = "West Midlands, UK"
 seb.believesIn = "Tabs over spaces"
 seb.fueledBy = "Coffee"
